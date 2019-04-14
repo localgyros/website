@@ -1,0 +1,12 @@
+{
+    "name": "localgyros/website",
+    "description": "main static site",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Benjamin H Boruff",
+            "email": "ben@boruff.me"
+        }
+    ],
+    "require": {}
+}
