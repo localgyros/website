@@ -1,5 +1,5 @@
 ---
-title: 'No satellite, no problem'
+title: 'No satellite, No problem'
 author: Benjamin H Boruff
 date: 2019-04-18T22:49:24.877Z
 description: >-
@@ -12,4 +12,4 @@ section: content
 ---
 Do you need to build an application that consumes data from satellites, or sends control commands to them, but you don't have an actual satellite or ground station, yet?
 
-You have come to the right place. At <https://localgyros.com> we build simulated satellite systems that provide an API for your application to use before you design and launch your satellite, or build or lease a ground station.
+You have come to the right place! At [localgyros](https://localgyros.com) we build simulated satellite systems that provide an API for your application to use before you design and launch your satellite, or build or lease a ground station.
