@@ -1,7 +1,7 @@
 ---
 title: A test
 author: me
-date: '2019-04-18'
+date: 2019-04-18
 description: A weird test
 categories:
   - feature
