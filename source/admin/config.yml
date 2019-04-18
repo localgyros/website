@@ -35,6 +35,7 @@ collections:
       - label: "Categories"
         name: "categories"
         widget: "select"
+        required: false
         multiple: true
         options: ["feature", "configuration"]
       - { label: "Featured?", name: "featured", widget: "boolean", default: false, hint: "Should it be featured on the home page?" }
