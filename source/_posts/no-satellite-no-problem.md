@@ -5,7 +5,7 @@ date: 2019-04-18T22:49:24.877Z
 description: >-
   Build applications for satellite data consumption and satellite control on the
   cheap!
-cover_image: /assets/images/uploads/flashgordon.jpg
+cover_image: /assets/images/uploads/sat.png
 featured: true
 extends: _layouts.post
 section: content
