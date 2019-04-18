@@ -15,7 +15,7 @@
     for your applications.
 </p>
 
-<form class="mb-12" name="contact" netlify-honeypot="bot-field" data-netlify="true"  method="POST">
+<form class="mb-12" action="/thanks" name="contact" netlify-honeypot="bot-field" data-netlify="true"  method="POST">
     <div class="flex flex-wrap mb-6 -mx-3">
         <div class="w-full md:w-1/2 mb-6 md:mb-0 px-3">
             <label class="block mb-2 text-grey-darkest text-sm font-semibold" for="contact-name">
