@@ -11,7 +11,8 @@
 <h1>Contact</h1>
 
 <p class="mb-8">
-    Static sites are unable to handle form submissions. However, there are third-party services, like Tighten’s <a href="https://fieldgoal.io" title="FieldGoal">FieldGoal</a>, which can accept the form submission, email you the result, and redirect back to a thank you page.
+    Please contact us for further information regarding simulated satellite preview mission APIs
+    for your applications.
 </p>
 
 <form class="mb-12" name="contact" netlify-honeypot="bot-field" data-netlify="true"  method="POST">
