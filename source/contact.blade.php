@@ -11,7 +11,7 @@
 <h1>Contact</h1>
 
 <p class="mb-8">
-    Please contact us for further information regarding simulated satellite preview mission APIs
+    Please contact us for further information regarding <em>satellite preview mission APIs</em>
     for your applications.
 </p>
 
@@ -25,7 +25,7 @@
             <input
                 type="text"
                 id="contact-name"
-                placeholder="Jane Doe"
+                placeholder="Johnny Rocket"
                 name="name"
                 class="block w-full border shadow rounded-lg outline-none mb-2 p-4"
                 required
@@ -58,7 +58,7 @@
             rows="4"
             name="message"
             class="block w-full border shadow rounded-lg outline-none appearance-none mb-2 px-4 py-6"
-            placeholder="A lovely message here."
+            placeholder="Your satellite profile questions here."
             required
         ></textarea>
         <p>
