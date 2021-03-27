@@ -1,7 +1,7 @@
 ---
 title: 'No satellite, No problem'
 author: Benjamin H Boruff
-date: 2020-04-18T22:49:24.877Z
+date: 2019-12-10T22:49:24.877Z
 description: >-
   Build applications for satellite data consumption and satellite control on the
   cheap!
